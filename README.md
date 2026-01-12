@@ -1,28 +1,21 @@
-## Full Stack Developer (Vue.js Laravel) 👋
+## 👋 Full Stack Developer (Vue.js Laravel)
 
 My name is Serhii Bida. I am a Full Stack Developer with experience in PHP and JavaScript, specializing in building and maintaining modern web products.  
 
-Bachelor’s degree in Computer Science (2024). Currently working at [Palmo](https://www.linkedin.com/company/palmo-company) as a Software Developer (Full Stack).
+Bachelor’s degree in Computer Science (2024). Currently working at [Palmo](https://www.linkedin.com/company/palmo-company) as a Software Developer (Full Stack). We develop products in the Healthcare and Social Automation domains.
 
 ### 🛠 Technology Stack
-
-**Frontend:**  
-![Vue](https://skillicons.dev/icons?i=vue)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-**Backend:**  
-![PHP](https://skillicons.dev/icons?i=php)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-
-**Database:**  
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-**Tools:**  
-![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
+![Vue](https://img.shields.io/badge/Vue.js-111111?style=flat-square&logo=vue.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwind-css)
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
 
 
 
