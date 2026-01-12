@@ -17,6 +17,10 @@ Bachelor’s degree in Computer Science (2024). Currently working at [Palmo](htt
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
 
+### ✉️ Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-bida-405765286/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SerhiiBida)
+
 
 
 <!--
