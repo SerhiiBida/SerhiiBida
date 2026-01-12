@@ -9,7 +9,7 @@ Bachelor’s degree in Computer Science (2024). Currently working at [Palmo](htt
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-111111?style=flat-square&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwind-css)
 ![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel)
