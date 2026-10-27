@@ -2,7 +2,7 @@
 
 My name is Serhii Bida. I am a Full Stack Developer with experience in PHP and JavaScript, specializing in building and maintaining modern web products.  
 
-Bachelor’s degree in Computer Science (2024). Currently working at [Palmo](https://www.linkedin.com/company/palmo-company) as a Software Developer (Full Stack). We develop products in the Healthcare and Social Automation domains.
+Bachelor’s degree in Computer Science (2024). Worked for 1.5 years as a Full-Stack Software Developer at a Ukrainian company specializing in the automation of medical processes. We develop products in the Healthcare and Social Automation domains.
 
 ### 🛠 Technology Stack
 ![Vue](https://img.shields.io/badge/Vue.js-111111?style=flat-square&logo=vue.js)
